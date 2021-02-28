@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+h1{
+width: 332px;
+height: 83px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 70px;
+line-height: 95px;
+text-align: center;
+color: #1E419B;
+mix-blend-mode: normal;
+margin: 0 auto;
+}
+h2{
+    font-family:'Source Sans Pro',sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 2px; margin-top: 10px; margin-right: 45px; margin-bottom: -5px;
+}
+label{
+    font-family:'Source Sans Pro',sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color:#041831;
+    margin: 0 auto;
+}
+h3{
+    font-family:'Source Sans Pro',sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    color:#041831;
+    margin: 0 auto;
+}
+.btn{
+width: 170px;
+height: 55px;
+left: 551px;
+top: 817px;
+background: #2F80ED;
+mix-blend-mode: normal;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 53.5px;
+border-style:solid;
+}
+.browsefilebox{
+position: absolute;
+width: 586px;
+height: 547px;
+left: 100px;
+top: 377px;
+
+border: 3px solid #2F80ED;
+box-sizing: border-box;
+border-radius: 52px;
+}
+
+.selectedfilesbox{
+position: absolute;
+width: 586px;
+height: 390px;
+left: 754px;
+top: 377px;
+
+border: 3px solid #2F80ED;
+box-sizing: border-box;
+border-radius: 52px;
+}
+.triangle{
+position: absolute;
+width: 30px;
+height: 25px;
+left: 50px;
+top: 198px;
+
+background: url(Asset 4.png);
+transform: rotate(-90deg);
+}
+.hometext{
+position: absolute;
+width: 142px;
+height: 55px;
+left: 86px;
+top: 150px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 63px;
+
+color: #56BCEC;
+}
+.uploadcsvtext{
+position: absolute;
+width: 463px;
+height: 55px;
+left: 488px;
+top: 230px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 63px;
+text-align: center;
+
+color: #1E419B;
+
+mix-blend-mode: normal;
+
+}
+.browsefile{
+position: absolute;
+left: 100px;
+top: 377px;
+
+background: url(Asset 7.png);
+}
+.browsetext{
+position: absolute;
+width: 280px;
+height: 47px;
+left: 253px;
+top: 627px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 44px;
+text-align: center;
+
+}
+.nofile{
+position: absolute;
+width: 316px;
+height: 43px;
+left: 889px;
+top: 542px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 44px;
+text-align: center;
+
+color: #56BCEC;
+}
+.uploadbutton{
+position: absolute;
+width: 240px;
+height: 107px;
+left: 927px;
+top: 817px;
+
+background: #2F80ED;
+mix-blend-mode: normal;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 53.5px;
+}
+
+.upload{
+position: absolute;
+width: 130px;
+height: 55px;
+left: 982px;
+top: 843px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+}
+.csvfileicon{
+position: absolute;
+width: 71px;
+height: 92px;
+left: 754px;
+top: 414px;
+
+background: url(Asset 5.png);
+}
+.uploadedfiletext{
+position: absolute;
+width: 302px;
+height: 49px;
+left: 839px;
+top: 440px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 50px;
+
+color: #1B1B1B;
+}
